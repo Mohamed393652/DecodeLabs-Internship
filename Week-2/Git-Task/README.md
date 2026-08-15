@@ -28,3 +28,11 @@ This project is created for the DecodeLabs Industrial Training Program.
 Git-Task/
 ├── README.md
 └── git-workflow.md
+
+## Git Commands Used
+
+```bash
+git status
+git add
+git commit
+git push
