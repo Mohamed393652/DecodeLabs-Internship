@@ -50,5 +50,5 @@ jobs:
           username: ${{ secrets.EC2_USER }}
           key: ${{ secrets.EC2_PRIVATE_KEY }}
           script: |
-            sudo cp /tmp/index.html /var/www/html/index.html
+            sudo cp /tmp/Week-3/CI-CD-Task/index.html /var/www/html/index.html
             sudo systemctl restart nginx
