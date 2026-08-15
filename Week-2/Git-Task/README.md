@@ -21,3 +21,10 @@ This repository demonstrates version control through multiple commits and GitHub
 ## License
 
 This project is created for the DecodeLabs Industrial Training Program.
+
+## Project Structure
+
+```text
+Git-Task/
+├── README.md
+└── git-workflow.md
